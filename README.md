@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohan 👋
 
-<!--
-**TareMohan/TareMohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in India, focused on containers, CI/CD and cloud infrastructure.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Hands-on Docker and Kubernetes projects
+- Automating builds and deployments with GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+Linux | Docker | Git | CI/CD | AWS | Terraform | Python | Bash
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/mohan-s-tare
+- Portfolio: https://taremohan.github.io
